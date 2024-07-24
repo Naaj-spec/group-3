@@ -21,6 +21,7 @@ def prime_factors(n):
         else:
             n //= i
             factors.append(i)
+faria
     if n > 1:
         factors.append(n)
     return factors
