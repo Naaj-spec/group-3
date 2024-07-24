@@ -24,4 +24,5 @@ def prime_factors(n):
 faria
     if n > 1:
         factors.append(n)
+jkuat
     return factors
